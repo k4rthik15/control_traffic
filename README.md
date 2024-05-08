@@ -1,9 +1,9 @@
 # control_traffic
-##Traffic Signal Control System
+Traffic Signal Control System
 
 This project implements an intelligent traffic signal control system using computer vision and machine learning techniques. The system detects vehicles and pedestrians at an intersection, analyzes traffic patterns in real-time, and dynamically adjusts traffic signal timings to optimize traffic flow and ensure pedestrian safety.
 
-##Key Features:
+Key Features:
   Vehicle Detection: Utilizes state-of-the-art object detection algorithms to detect vehicles approaching the intersection.
   
   Pedestrian Detection: Detects pedestrians and responds accordingly by adjusting signal timings to facilitate safe pedestrian crossings.
@@ -16,7 +16,7 @@ This project implements an intelligent traffic signal control system using compu
   
   User-friendly Interface: Includes an intuitive interface for configuration and monitoring, making it accessible to traffic engineers and administrators.
   
-##Technologies Used:
+Technologies Used:
   Computer Vision: Utilizes computer vision techniques for vehicle and pedestrian detection.
   
   Machine Learning: Implements machine learning algorithms for object detection and traffic pattern analysis.
@@ -25,7 +25,7 @@ This project implements an intelligent traffic signal control system using compu
   
   GitHub: Hosted on GitHub for version control, collaboration, and community engagement.
   
-##Usage:
+Usage:
   Installation: Clone the repository and install the required dependencies.
   
   Configuration: Customize the system settings and parameters according to your specific traffic intersection setup.
@@ -34,11 +34,11 @@ This project implements an intelligent traffic signal control system using compu
   
   Monitoring: Access the real-time monitoring interface to observe traffic conditions and signal states.
   
-##Contributions:
+Contributions:
   Contributions, bug reports, and feature requests are welcome! Please feel free to fork the repository, make improvements, and submit pull requests.
 
-##License:
+License:
   This project is licensed under the MIT License, allowing for both personal and commercial use with proper attribution.
 
-##Authors:
+Authors:
   P. Karthik Prabhu - Lead Developer
